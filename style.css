@@ -1,0 +1,24 @@
+body {
+    background-color: #d6ca98;
+    color: #cef9f2;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1,
+h2 {
+    background-color: #655a7c;
+    color: #afc1d6;
+}
+
+p,
+ol,
+ul {
+    background-color: #ab92bf;
+    text-align: left;
+}
+
+img {
+    border: 10px ridge #ab92bf;
+}
